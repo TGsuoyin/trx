@@ -3,9 +3,9 @@
 # 自动化USDT兑换TRX的Telegram机器人 完整功能
 ### 体验群组 测试群组 https://t.me/trxdhV
 ### 体验机器人 https://t.me/trxdhu1_bot
-### 联系我 https://t.me/question_ro
-### TG红包雷 可自助充值 提现 ：https://t.me/gshskski
-### TG索引机器人，telegram超级索引群组https://t.me/sousuo_z
+### [联系我](https://t.me/question_ro)
+### [TG红包雷 可自助充值 提现](https://t.me/gshskski)
+### [TG索引机器人，telegram超级索引群组](https://t.me/sousuo_z)
 功能：完完全全自主配置，自主控制的tg trx能量商城会员兑换机器人
 1. usdt闪兑机器人，可配置多个机器人，设置不同的汇率，自动进货，设置黑钱包，最大和最低兑换金额，预支等功能
 2. 可对机器人设置不同的关键字回复，不开启闪兑功能也可以用
