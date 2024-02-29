@@ -26,7 +26,6 @@
 ![image](https://github.com/mmmrp/trx/assets/72646062/178824e0-2c3b-4694-acc2-11840495c6a8)
 ![image](https://github.com/mmmrp/trx/assets/72646062/f7c2ecdf-ea05-4fa3-981d-b3a6fdd73147)
 ![image](https://github.com/mmmrp/trx/assets/72646062/3f564d1d-602f-4828-9017-aa679d852bc1)
-![image](https://github.com/lllrp/trx/assets/72646062/f054586d-0af9-4a35-aef9-dab66183a633)
-![image](https://github.com/lllrp/trx/assets/72646062/f89bbeb1-3ebb-4548-b038-ed3840530739)
+
 
 
