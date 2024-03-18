@@ -4,7 +4,7 @@
 ### [👉TG体验群组](https://t.me/trxdhV)
 ### [👉TG体验机器人](https://t.me/trxdhu1_bot)
 ### [👉TG联系我](https://t.me/question_ro)
-### [👉TG其他---》TG红包扫雷 可自助充值 提现](https://t.me/gshskski)
+### [👉TG其他---》TG红包扫雷 可自助充值 提现、自动发包、自动抢包](https://t.me/gshskski)
 ### [👉TG其他---》TG索引机器人，telegram超级索引群组](https://t.me/sousuo_z)
 ### [👉安卓远控 肉鸡 盗U](https://t.me/yuankong09)
 功能：完完全全自主配置，自主控制的TG trx能量商城会员兑换机器人
