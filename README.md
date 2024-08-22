@@ -2,7 +2,6 @@
 # TG机器人  TRX能量商城会员兑换 
 # 自动化USDT兑换TRX的Telegram机器人 完整功能
 * [👉TG联系我](https://t.me/question_r0)
-* [👉TRX兑换 能量租赁 TG体验群组](https://t.me/trxdhb)
 * [👉TRX兑换 能量租赁 TG体验机器人](https://t.me/trxdhu1_bot)
 * [👉TG其他---》TG红包扫雷 可自助充值 提现、自动发包、自动抢包](https://t.me/gshskski)
 * [👉TG其他---》TG索引机器人，telegram超级索引群组](https://t.me/sousuo_z)
