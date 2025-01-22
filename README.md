@@ -3,7 +3,7 @@
 # 自动化USDT兑换TRX的Telegram机器人 最新完整功能
 * [👉TG联系我](https://t.me/question_r0)
 * [👉TRX兑换 能量租赁 TG体验机器人 php版本](https://t.me/trxdhu1_bot)
-* [👉TRX兑换 能量租赁 TG体验机器人 java版本](https://t.me/trxdhu168_bot)
+* [👉TRX兑换 能量租赁 TG体验机器人 java版本](https://t.me/trxdh168_bot)
 * [👉TG其他---》TG红包扫雷 可自助充值 提现、自动发包、自动抢包](https://t.me/gshskski)
 * [👉TG其他---》TG索引机器人，telegram超级索引群组](https://t.me/sousuo_z)
 * [👉TG其他---》TG快三机器人](https://t.me/shouyaokuaisan_bot)
